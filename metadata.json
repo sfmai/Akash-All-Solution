@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Akash All Solution",
+  "description": "A modern business management dashboard for electric and electronic products businesses, featuring inventory tracking, sales/purchase logging, profit reports, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
